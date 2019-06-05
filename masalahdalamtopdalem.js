@@ -21,6 +21,20 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
+if(x=="2"){xxx="faktor-penyebab-konflik-sosial-menurut.html"}
+if(x=="3"){xxx="sunan-kalijaga-berguru-kepada-sunan.html"}
+if(x=="4"){xxx="ranji-silsilah-keturunan-sunan-ampel.html"}
+if(x=="5"){xxx="pemberian-vaksin-ternak-ayam.html"}
+if(x=="6"){xxx="sunan-giri-sebagai-pemimpin-wali.html"}
+if(x=="7"){xxx="teori-teori-masuknya-agama-hindu-dan.html"}
+if(x=="8"){xxx="langkah-pencegahan-banjir-yang-efektif.html"}
+if(x=="9"){xxx="benarkah-sunan-giri-keturunan-nabi.html"}
+if(x=="10"){xxx="kerajaan-islam-pertama-di-indonesia.html"}
+if(x=="11"){xxx="cara-membuat-pakan-ayam-sendiri.html"}
+if(x=="12"){xxx="kenapa-disarankan-buka-puasa-dengan.html"}
+if(x=="13"){xxx="murid-sunan-ampel-yang-terkenal.html"}
+if(x=="14"){xxx="peninggalan-kerajaan-kalingga-holing.html"}
+if(x=="15"){xxx="ringkasan-kerajaan-kutai-kerajaan-hindu.html"}
 if(x=="16"){xxx="pengaruh-budaya-hindu-budha-di-indonesia.html"}
 if(x=="17"){xxx="sumber-sejarah-dan-bukti-kerajaan.html"}
 if(x=="18"){xxx="masuknya-sunan-ampel-di-pulau-jawa.html"}
