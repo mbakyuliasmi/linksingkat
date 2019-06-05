@@ -56,7 +56,7 @@ if(x=="32"){xxx="2016/05/peninggalan-kerajaan-kalingga-holing.html"}
 if(x=="33"){xxx="2016/05/ringkasan-kerajaan-kutai-kerajaan-hindu.html"}
 if(x=="34"){xxx="2016/05/pengaruh-budaya-hindu-budha-di-indonesia.html"}
 if(x=="35"){xxx="2016/05/biografi-sunan-gresik-maulana-malik.html"}
-if(x=="36"){xxx="2016/06/sumber-sejarah-dan-bukti-kerajaan.html"}a_to_ve[i].href="https://masalah-dalam.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"n";}}
+if(x=="36"){xxx="2016/06/sumber-sejarah-dan-bukti-kerajaan.html"}a_to_ve[i].href="https://masalah-dalam.blogspot.com/"+xxx+"#?o="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
